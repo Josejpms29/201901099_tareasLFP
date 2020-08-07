@@ -1,0 +1,11 @@
+Lenguajes de programación imperativos y lenguajes de programación declarativos
+
+Un lenguaje de programación declarativo es aquél que le brinda instrucciones al ordenador, es decir, distintos pasos a seguir para poder llegar a realizar una
+acción determinada, mientras que un lenguaje de programación declarativo es aquél que le da una "meta" al ordenador, es aquél que le indica a dónde quiere llegar
+o que acción quiere realizar sin brindar pasos a seguir o una serie de instrucciones.
+
+Ejemplo:
+
+Cuando hablamos de lenguajes de programación imperativos y declarativos, podemos tratar de entenderlo interpretándolo de muchas formas. Una de las maneras de comprenderlo
+es cuando cocinamos, el lenguaje de programación imperativo vendría a ser como las instrucciones o la receta para realizar un pastel mientras que el lenguaje de programación
+declarativo vendría a ser las fotos del pastel ya terminado, indicando que queremos hacer uno igual sin tener la receta.
