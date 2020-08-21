@@ -1,0 +1,28 @@
+{
+    "Registros": [
+        {
+            "Nombre: ": "Nombre 1",
+            "Edad: ": "Edad 1",
+            "Genero: ": "Genero 1",
+            "Cumplea\u00f1os: ": "Cumplea\u00f1os 1"
+        },
+        {
+            "Nombre: ": "Nombre 2",
+            "Edad: ": "Edad 2",
+            "Genero: ": "Genero 2",
+            "Cumplea\u00f1os: ": "Cumplea\u00f1os 2"
+        },
+        {
+            "Nombre: ": "Nombre 3",
+            "Edad: ": "Edad 3",
+            "Genero: ": "Genero 3",
+            "Cumplea\u00f1os: ": "Cumplea\u00f1os 3"
+        },
+        {
+            "Nombre: ": "Nombre 4",
+            "Edad: ": "Edad 4",
+            "Genero: ": "Genero 4",
+            "Cumplea\u00f1os: ": "Cumplea\u00f1os 4"
+        }
+    ]
+}

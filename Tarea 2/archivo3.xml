@@ -1,0 +1,30 @@
+<Registros>
+	<Registro>PRIMER REGISTRO</Registro>
+		<Nombre>Nombre_1</Nombre>
+		<Edad>Edad_1</Edad>
+		<Genero>Genero_1</Genero>
+		<Cumpleaños>Cumpleaños_1</Cumpleaños>
+		<espacio> </espacio>
+
+	<Registro>SEGUNDO REGISTRO</Registro>
+		<Nombre>Nombre_2</Nombre>
+		<Edad>Edad_2</Edad>
+		<Genero>Genero_2</Genero>
+		<Cumpleaños>Cumpleaños_2</Cumpleaños>
+		<espacio> </espacio>
+
+	<Registro>TERCER REGISTRO</Registro>
+		<Nombre>Nombre_3</Nombre>
+		<Edad>Edad_3</Edad>
+		<Genero>Genero_3</Genero>
+		<Cumpleaños>Cumpleaños_3</Cumpleaños>
+		<espacio> </espacio>
+
+	<Registro>CUARTO REGISTRO</Registro>
+		<Nombre>Nombre_4</Nombre>
+		<Edad>Edad_4</Edad>
+		<Genero>Genero_4</Genero>
+		<Cumpleaños>Cumpleaños_4</Cumpleaños>
+		<espacio> </espacio>
+
+</Registros>
