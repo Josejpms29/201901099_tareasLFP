@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Jose",
+        "edad": 25,
+        "activo": true,
+        "saldo": 1000
+    },
+    {
+        "nombre": "Pablo",
+        "edad": 25,
+        "activo": true,
+        "saldo": 1500
+    },
+    {
+        "nombre": "Juan",
+        "edad": 25,
+        "activo": true,
+        "saldo": 1200
+    },
+    {
+        "nombre": "Alberto",
+        "edad": 25,
+        "activo": true,
+        "saldo": 1700
+    },
+    {
+        "nombre": "Mario",
+        "edad": 25,
+        "activo": true,
+        "saldo": 2500
+    },
+    {
+        "nombre": "Diego",
+        "edad": 25,
+        "activo": true,
+        "saldo": 1450
+    },
+    {
+        "nombre": "David",
+        "edad": 25,
+        "activo": true,
+        "saldo": 7980
+    },
+    {
+        "nombre": "Marcos",
+        "edad": 25,
+        "activo": true,
+        "saldo": 1200
+    },
+    {
+        "nombre": "Andrea",
+        "edad": 25,
+        "activo": true,
+        "saldo": 2500
+    },
+    {
+        "nombre": "Jennifer",
+        "edad": 25,
+        "activo": true,
+        "saldo": 1680
+    }
+]
